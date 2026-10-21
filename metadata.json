@@ -1,0 +1,6 @@
+{
+  "name": "Bé Vui Gõ Phím",
+  "description": "Game luyện gõ phím trực quan, dễ thương dành cho học sinh lớp 1 với mèo con đáng yêu và âm thanh vui nhộn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
